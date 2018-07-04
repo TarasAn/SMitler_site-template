@@ -1,0 +1,9 @@
+#ignore folder 'fonts'
+fonts/
+
+#ignore some files and folders in 'img'
+img/photos/
+img/*.jpg
+img/service.png
+img/service2.png
+img/service3.png
